@@ -1,4 +1,4 @@
-# Godot game engine Android plugin for Bazaar authentication and in-app storage
+# Godot 3 game engine Android plugin for Bazaar authentication and in-app storage
 
 <br>
 
@@ -8,6 +8,9 @@
 <br>
 
 With the help of this plugin, you can add [CafeBazaar](https://cafebazaar.ir) authentication and in-app storage to games made with the [Godot](https://godotengine.org) game engine. For this, just download the zip file in the [Release](https://github.com/ygngy/godot-bazaar-auth/releases) section and copy its content to the **android/plugins** folder. You can read how to use the Android plugin in Godot [here](https://docs.godotengine.org/en/stable/tutorials/plugins/android/android_plugin.html#loading-and-using-an-android-plugin).
+
+
+**Note: This plugin is designed and tested for Godot version 3.5.1 and CafeBazaarAuth version 1.0.2 and may not work in other versions.**
 
  
 **Note: You must be connected to the Internet when exporting the Android APK.**

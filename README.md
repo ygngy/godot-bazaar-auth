@@ -1,4 +1,4 @@
-# Godot game engine Android plugin for Bazaar authentication and in-app storage
+# Godot 3 game engine Android plugin for Bazaar authentication and in-app storage
 
 <br>
 
@@ -9,12 +9,16 @@
 
 <div dir="rtl">
 
-## افزونه موتور بازی سازی گودو برای احراز هویت و حافظه درون برنامه‌ای بازار
+## افزونه موتور بازی سازی گودو 3 برای احراز هویت و حافظه درون برنامه‌ای بازار
 
 
  
 این پلاگین امکان استفاده از احراز هویت و حافظه درون برنامه‌ای   [کافه بازار](https://cafebazaar.ir) را در موتور بازی سازی [گودو](https://godotengine.org) فراهم میکند.
 برای این کار کافی است فایل zip موجود در قسمت [*Release*](https://github.com/ygngy/godot-bazaar-auth/releases) را دانلود کرده و محتوای آن را در پوشه **android/plugins** کپی کنید. نحوه استفاده از پلاگین اندروید در گودو را می توانید از [اینجا](https://docs.godotengine.org/en/stable/tutorials/plugins/android/android_plugin.html#loading-and-using-an-android-plugin) بخوانید.
+
+
+**توجه: این پلاگین برای گودو نسخه 3.5.1 و کافه بازار اوت نسخه 1.0.2 طراحی و تست شده است و ممکن است در سایر نسخه ها کارنکند.**
+
 
 **توجه: هنگام اکسپورت کردن فایل اندروید باید به اینترنت متصل باشید.**
 <br>
