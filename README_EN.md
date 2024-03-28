@@ -1,6 +1,12 @@
 # Godot 3 game engine Android plugin for Bazaar authentication and in-app storage
 
+### Telegram: [https://t.me/Amani_0_1](https://t.me/Amani_0_1)
+
+To get Godot 4 compatible version, please text me in [Telegram](https://t.me/Amani_0_1).
+
 <br>
+
+## برای دریافت نسخه سازگار با گودو 4 لطفاً در [تلگرام](https://t.me/Amani_0_1) پیام بدید.
 
 ### [مشاهده این صفحه به زبان فارسی](README.md)
 
@@ -109,6 +115,9 @@ func _on_got_user_id(id: String):
 
 ```
 
+**To get Godot 4 compatible version, please text me in [Telegram](https://t.me/Amani_0_1).**
+
+## برای دریافت نسخه سازگار با گودو 4 لطفاً در [تلگرام](https://t.me/Amani_0_1) پیام بدید.
 
 ---------------------------------------------------------------------------
 
@@ -120,3 +129,5 @@ My LinkedIn Profile: [https://www.linkedin.com/in/ygngy](https://www.linkedin.co
 My Github Profile: [https://github.com/ygngy](https://github.com/ygngy)  
 
 Email:  [amany1388@gmail.com](mailto:amany1388@gmail.com)
+
+Telegram: [https://t.me/Amani_0_1](https://t.me/Amani_0_1)
